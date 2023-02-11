@@ -91,9 +91,9 @@ Proper inventory management and control prevent customers from receiving inaccur
 [Link6]: https://tasleem57.github.io/Zomatoclone-TSproject4//
 [Link7]: https://tasleem57.github.io/QRCode-Generator//
 [Link8]: https://tasleem57.github.io/Creative-Agency//
-[Link9]: https://tasleem57.github.io/OTP-Input-Field//
+[Link9]: /
 [Link10]: https://tasleem57.github.io/Netflix-Clone//
-[Link11]: https://tasleem57.github.io/Flappy-Bird-Game//
+[Link11]: /
 [Link12]:https://tasleem57.github.io/MemoryGAme//
 [Link13]:https://tasleem57.github.io/Rock-Paper-Scissors-Game// 
 [Link14]:https://tasleem57.github.io/Personal-protfolio// 
