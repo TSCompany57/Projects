@@ -1,4 +1,6 @@
 # Projects
+# Designed By  -[tasleem57][Link100]
+[Link100]:https://github.com/tasleem57/
 
 ## Based on Web Development using HTML, CSS and JavaScript-
 
@@ -92,11 +94,11 @@ Proper inventory management and control prevent customers from receiving inaccur
 [Link7]: https://tasleem57.github.io/QRCode-Generator//
 [Link8]: https://tasleem57.github.io/Creative-Agency//
 [Link9]: /
-[Link10]: https://tasleem57.github.io/Netflix-Clone//
+[Link10]: /
 [Link11]: /
 [Link12]:https://tasleem57.github.io/MemoryGAme//
 [Link13]:https://tasleem57.github.io/Rock-Paper-Scissors-Game// 
-[Link14]:https://tasleem57.github.io/Personal-protfolio// 
+[Link14]:https://tscompany57.github.io/Tasleem// 
 [Link15]:https://tasleem57.github.io/Tasleem-ProfileCard// 
 [Link16]:https://tasleem57.github.io/Notes-App// 
 [Link17]:https://tasleem57.github.io/Calender// 
