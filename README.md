@@ -4,7 +4,7 @@
 
 ## Final Year Engineering Project
 
-- Eyes in Every Step: Navigating the Future with IoT and AI-ML in Smart Wearables for the Visually ImpairedEyes in Every Step: Navigating the Future with IoT and AI-ML in Smart Wearables for the Visually Impaired
+### Eyes in Every Step: Navigating the Future with IoT and AI-ML in Smart Wearables for the Visually ImpairedEyes in Every Step: Navigating the Future with IoT and AI-ML in Smart Wearables for the Visually Impaired
 
 Oct 2023 - May 2024
 
@@ -16,7 +16,7 @@ Oct 2023 - May 2024
   
 ## DBMS Project
 
-- Inventory Management System -- [Link][Link33]{:target="_blank" rel="noopener"}  \
+### Inventory Management System
 Jan 2023 - May 2023
 
 - Efficient inventory tracking helps shopkeepers manage purchase and sales records accurately.
@@ -24,7 +24,7 @@ Jan 2023 - May 2023
 - Improved inventory management enhances client experience and encourages repeat purchases.
 - Accurate records protect against difficulties like refunds and ensure customer satisfaction.
 
-- Placement Management System
+### Placement Management System
 
 - Manage Student Records**: Store and manage student information including names, USNs, CGPAs.
 - Eligibility Search**: Find eligible students for recruitment based on specific criteria.
