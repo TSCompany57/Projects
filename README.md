@@ -2,6 +2,36 @@
 ## Designed By  -[tasleem57][Link100]
 [Link100]:https://github.com/tasleem57/
 
+## Final Year Engineering Project
+
+- Eyes in Every Step: Navigating the Future with IoT and AI-ML in Smart Wearables for the Visually ImpairedEyes in Every Step: Navigating the Future with IoT and AI-ML in Smart Wearables for the Visually Impaired
+
+Oct 2023 - May 2024
+
+- The Smart Glass and Shoe aids visually impaired individuals using smart wearable technology for navigation.
+- The device integrates a buzzer, vibration model, headphones, power bank, and Pi camera for support.
+- Leveraging IoT and AI-ML, it offers auditory cues, sustained functionality, and advanced image processing.
+- Equipped with ultrasonic and flame sensors, it detects obstacles, alerts hazards, and provides location information.
+- Published a research paper in e International Journal of Advanced Trends in Computer Science and Engineering (IJATCSE)
+  
+## DBMS Project
+
+- Inventory Management System -- [Link][Link33]{:target="_blank" rel="noopener"}  \
+Jan 2023 - May 2023
+
+- Efficient inventory tracking helps shopkeepers manage purchase and sales records accurately.
+- Proper inventory control prevents customers from receiving inaccurate or damaged goods.
+- Improved inventory management enhances client experience and encourages repeat purchases.
+- Accurate records protect against difficulties like refunds and ensure customer satisfaction.
+
+- Placement Management System
+
+- Manage Student Records**: Store and manage student information including names, USNs, CGPAs.
+- Eligibility Search**: Find eligible students for recruitment based on specific criteria.
+- Placement Planning**: Organize and schedule placement activities for efficient recruitment process.
+- Company Coordination**: Maintain company details for better communication and collaboration.
+
+
 ## Based on Web Development using HTML, CSS and JavaScript-
 
 -01. Tribute Page - [Link][Link1]{:target="_blank" rel="noopener"} \
