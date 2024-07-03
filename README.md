@@ -4,9 +4,7 @@
 
 ## Final Year Engineering Project
 
-### Eyes in Every Step: Navigating the Future with IoT and AI-ML in Smart Wearables for the Visually ImpairedEyes in Every Step: Navigating the Future with IoT and AI-ML in Smart Wearables for the Visually Impaired
-
-Oct 2023 - May 2024
+### Eyes in Every Step: Navigating the Future with IoT and AI-ML in Smart Wearables for the Visually Impaired
 
 - The Smart Glass and Shoe aids visually impaired individuals using smart wearable technology for navigation.
 - The device integrates a buzzer, vibration model, headphones, power bank, and Pi camera for support.
@@ -17,7 +15,6 @@ Oct 2023 - May 2024
 ## DBMS Project
 
 ### Inventory Management System
-Jan 2023 - May 2023
 
 - Efficient inventory tracking helps shopkeepers manage purchase and sales records accurately.
 - Proper inventory control prevents customers from receiving inaccurate or damaged goods.
